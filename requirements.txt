@@ -1,0 +1,7 @@
+numpy
+torchvision
+pytorch-lightning
+FastAPI
+uvicorn
+opencv-python
+
