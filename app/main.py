@@ -6,7 +6,7 @@ import cv2
 import io
 
 from dataset.Dataloader import testloader
-from model import *
+from classification_model.model import *
 
 BASE_DIR = '/media/victor/851aa2dd-6b93-4a57-8100-b5253aa4eedd/cursos/checkpoint_model_microservice/epoch=3-step=49999.ckpt'
 CLASSES = ('plane', 'car', 'bird', 'cat',
